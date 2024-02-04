@@ -1,6 +1,6 @@
 <template>
   <nav class="backdrop-blur-xl bg-transparent md:backdrop-blur-lh">
-    <div class="mx-auto md:sticky top-0 z-20 w-full  px-2 sm:px-6 lg:px-10  md:mt-10">
+    <div class="mx-auto md:fixed top-0 z-20 w-full  px-2 sm:px-6 lg:px-10  md:mt-10">
       <div class="relative flex  w-full md:w-max  mx-auto  h-16 items-center justify-between md:backdrop-blur-lg  rounded-full md:border md:border-zinc-600/25 px-16">
         <div class="absolute inset-y-0 left-0 flex items-center md:hidden">
           <!-- Mobile menu button-->
